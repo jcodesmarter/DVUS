@@ -1,0 +1,8 @@
+build/
+dist/
+log/*
+nbprobject
+build.xml
+manifest.mf
+master.d
+destination.d
